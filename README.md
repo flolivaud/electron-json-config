@@ -1,3 +1,4 @@
+
 # electron-json-config
 
 > Simply set and get configuration from a json file for your Electron app
